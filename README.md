@@ -1,2 +1,3 @@
 # DotNetSamples
-.NET Samples - testing some things
+
+ - [EF Core Many-To-Many Eager Loading](https://github.com/JakobVesely/DotNetSamples/tree/master/EFCoreManyToManyEagerLoading)
